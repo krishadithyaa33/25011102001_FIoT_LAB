@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="project_proj.xsd">
+  <SchemaVersion>1.1</SchemaVersion>
+  <Header>### uVision Project, (C) Keil Software</Header>
+  <Targets>
+    <Target>
+      <TargetName>Target 1</TargetName>
+      <ToolsetNumber>0x0</ToolsetNumber>
+      <ToolsetName>MCS-51</ToolsetName>
+      <TargetOption>
+        <TargetCommonOption>
+          <Device>AT89S52</Device>
+          <Vendor>Atmel</Vendor>
+          <OutputDirectory>.\Objects\</OutputDirectory>
+          <OutputName>CAT1</OutputName>
+          <CreateHexFile>1</CreateHexFile>
+        </TargetCommonOption>
+      </TargetOption>
+      <Groups>
+        <Group>
+          <GroupName>Source Group 1</GroupName>
+          <Files>
+            <File>
+              <FileName>STARTUP.A51</FileName>
+              <FileType>2</FileType>
+              <FilePath>.\STARTUP.A51</FilePath>
+            </File>
+            <File>
+              <FileName>main.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\main.c</FilePath>
+            </File>
+          </Files>
+        </Group>
+      </Groups>
+    </Target>
+  </Targets>
+</Project>

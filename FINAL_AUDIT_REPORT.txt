@@ -1,0 +1,61 @@
+================================================================================
+                      FINAL REPOSITORY AUDIT REPORT
+                Foundations of IoT (FIoT) Laboratory Assessment
+================================================================================
+Student Name      : Krish Adithyaa
+Student Roll No   : 25011102001
+GitHub Repository : 25011102001_FIoT_LAB
+GitHub Username   : krishadithyaa33
+================================================================================
+
+1. FOLDER AND EXPERIMENT VERIFICATION TABLE
+--------------------------------------------------------------------------------
+Rel Path                 | README | Circuit | Code/Project | Status
+--------------------------------------------------------------------------------
+8051/CAT1                | YES    | YES     | YES          | PASS
+8051/CAT2                | YES    | YES     | YES          | PASS
+8051/CAT3                | YES    | YES     | YES          | PASS
+8051/CAT4                | YES    | YES     | YES          | PASS
+8051/CAT5/TASK5A         | YES    | YES     | YES          | PASS
+8051/CAT5/TASK5B_1       | YES    | YES     | YES          | PASS
+8051/CAT5/TASK5B_2       | YES    | YES     | YES          | PASS
+8051/CAT5/TASK5B_3       | YES    | YES     | YES          | PASS
+8051/CAT5/TASK5C         | YES    | YES     | YES          | PASS
+8051/CAT6/TASK6A         | YES    | YES     | YES          | PASS
+8051/CAT6/TASK6B         | YES    | YES     | YES          | PASS
+8051/CAT7/TASK7A         | YES    | YES     | YES          | PASS
+8051/CAT7/TASK7B         | YES    | YES     | YES          | PASS
+8051/CAT7/TASK7C         | YES    | YES     | YES          | PASS
+STM32/CAT8/TASK8A        | YES    | YES     | YES          | PASS
+STM32/CAT8/TASK8B        | YES    | YES     | YES          | PASS
+STM32/CAT8/TASK8C        | YES    | YES     | YES          | PASS
+STM32/CAT9/TASK9A        | YES    | YES     | YES          | PASS
+STM32/CAT9/TASK9B        | YES    | YES     | YES          | PASS
+STM32/CAT10/TASK10A      | YES    | YES     | YES          | PASS
+STM32/CAT10/TASK10B      | YES    | YES     | YES          | PASS
+STM32/CAT10/TASK10C      | YES    | YES     | YES          | PASS
+STM32/CAT11/TASK11A      | YES    | YES     | YES          | PASS
+STM32/CAT11/TASK11B      | YES    | YES     | YES          | PASS
+STM32/CAT12/TASK12A      | YES    | YES     | YES          | PASS
+STM32/CAT12/TASK12B      | YES    | YES     | YES          | PASS
+STM32/CAT12/TASK12C      | YES    | YES     | YES          | PASS
+STM32/CAT13/TASK13       | YES    | YES     | YES          | PASS
+STM32/CAT14/TASK14       | YES    | YES     | YES          | PASS
+STM32/CAT15/TASK15       | YES    | YES     | YES          | PASS
+
+2. COMPULSORY REQUIREMENTS COMPLIANCE SUMMARY
+--------------------------------------------------------------------------------
+[PASS] 1. Folder Structure Organization : Standardized, following faculty sample.
+[PASS] 2. Subdivisions Naming           : Subtasks organized under TASK5A..5C, TASK8A..8C, etc.
+[PASS] 3. README Documentation Format   : 100% compliant with faculty sample specification.
+[PASS] 4. Circuit Diagram Compliance    : Exactly 30 circuit diagrams named 'circuit.png'.
+[PASS] 5. Source Code Rewriting         : Fresh, non-plagiarized C code matching specs.
+[PASS] 6. Unnecessary Files Excluded    : Intermediate Keil build files and hidden files purged.
+[PASS] 7. Firmware Retention            : Required Intel HEX and .ioc configuration files preserved.
+[PASS] 8. CAT15 Capstone Status         : Node-RED flow, CubeMX project, and dashboard assets intact.
+[PASS] 9. Official .gitignore Match     : 100% exact copy of faculty official .gitignore.
+[PASS] 10. Student ID Personalization   : Roll No 25011102001 and krishadithyaa33 applied throughout.
+
+================================================================================
+OVERALL REPOSITORY STATUS: PASS
+================================================================================
